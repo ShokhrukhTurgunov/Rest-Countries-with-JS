@@ -44,7 +44,6 @@ body{
     font-weight: 600;
     font-size: 16px;
     line-height: 22px;
-   
 }
 
 
@@ -68,6 +67,7 @@ body{
 
 .inside-main{
     display: flex;
+    margin-bottom: 300px;
 }
 .main-img{
     border-radius: 10px;
@@ -84,7 +84,6 @@ body{
     font-weight: 800;
     font-size: 32px;
     line-height: 44px;
-   
 }
 .left-side{
     max-width: 300px;
@@ -95,7 +94,6 @@ body{
     font-weight: 600;
     font-size: 16px;
     line-height: 32px;
-   
 }
 span{
     margin-left: 5px;
@@ -115,7 +113,6 @@ span{
     font-weight: 600;
     font-size: 16px;
     line-height: 32px;
-   
 }
 .add-countries{
     display: flex;
@@ -128,8 +125,7 @@ span{
     padding: 0;
     font-weight: 600;
     font-size: 16px;
-    line-height: 24px;
-   
+    line-height: 24px; 
 }
 .add-countries-link{
     text-decoration: none;
@@ -142,7 +138,6 @@ span{
     font-weight: 300;
     font-size: 14px;
     line-height: 19px;
-   
 }
 .dark-mode{
     background: #373838;
